@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasscodeAuthentication</string>
+    <string name="answer_text">They are attacking from the north</string>
+    <string name="show_answer_button_text">Show Answer</string>
+    <string name="return_to_question_button_text">Return to Question</string>
+</resources>
+
